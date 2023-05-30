@@ -1,7 +1,7 @@
 package newSample;
 
 //author: brenon
-//author: kristine
+//author: kristine jane borces
 import java.util.Scanner;
 
 
